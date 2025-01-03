@@ -4,7 +4,7 @@ import cv2
 import glob
 import imutils
 
-CAPTCHA_IMAGE_FOLDER = "generates_captcha_imgaes"
+CAPTCHA_IMAGE_FOLDER = "generated_captcha_imgaes"
 OUTPUT_FOLDER = "extracted_letter_images"
 
 #get a list of all the captcha images we need to process
